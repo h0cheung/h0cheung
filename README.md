@@ -12,9 +12,11 @@
 - **2000** <sub>birth year</sub>
 
 - **UESTC** <sub>graduated</sub>
+
   Cyberspace Security
 
 - **Shopee** <sub>working & growing</sub>
+
   Golang Backend Engineer
 
 - **ICPC player** <sub>the best memories</sub>
