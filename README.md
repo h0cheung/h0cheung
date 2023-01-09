@@ -1,4 +1,4 @@
-### Hello 👋 ![count](https://views.whatilearened.today/views/github/h0cheung/h0cheung.svg)
+### Hi there 👋 ![count](https://views.whatilearened.today/views/github/h0cheung/h0cheung.svg)
 
 #### `$ readelf -a ~/.local/share/Trash/files/h0cheung`
 
@@ -15,7 +15,7 @@
 
   Cyberspace Security
 
-- **Shopee** <sub>working & growing</sub>
+- **Yuanfudao** <sub>working & growing</sub>
 
   Golang Backend Engineer
 
@@ -32,9 +32,10 @@
   - GNU Emacs
   - And more...
 - **Coding**
-  - Python
   - Golang
   - C++
+  - Python
+  - Java
 - **Competitive programming**
 - **And more...**
 
