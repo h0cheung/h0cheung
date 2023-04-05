@@ -41,4 +41,4 @@
 
 #### More
 
-[![](https://img.shields.io/badge/Blog%20(Chinese)-pink?style=flat-square&logo=hugo)](https://h-cheung.cf) [![](https://img.shields.io/badge/Matrix-lightgreen?style=flat-square&logo=matrix)](https://matrix.to/#/@h-cheung:fedora.im) [![](https://img.shields.io/badge/Telegram-skyblue?style=flat-square&logo=telegram)](https://t.me/h_cheung) [![](https://img.shields.io/badge/Email-lightgrey?style=flat-square&logo=gmail)](mailto:mail@h-cheung.cf)
+[![](https://img.shields.io/badge/Blog%20(Chinese)-pink?style=flat-square&logo=hugo)](https://h0cheung.me) [![](https://img.shields.io/badge/Matrix-lightgreen?style=flat-square&logo=matrix)](https://matrix.to/#/@h-cheung:mozilla.org) [![](https://img.shields.io/badge/Telegram-skyblue?style=flat-square&logo=telegram)](https://t.me/h_cheung) [![](https://img.shields.io/badge/Email-lightgrey?style=flat-square&logo=gmail)](mailto:mail@h-cheung.cf)
